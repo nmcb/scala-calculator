@@ -1,8 +1,8 @@
 package calculator
 
-object Client {
+import Calculator._;
 
-  import Calculator._;
+object Client {
 
   val expressions = List(
     "1",
